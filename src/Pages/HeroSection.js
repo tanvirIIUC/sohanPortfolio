@@ -6,15 +6,15 @@ import sohanPic from "../Assets/sohan.jpg"
 const HeroSection = () => {
     return (
 
-        <div className="container mx-auto my-28">
-            <div className="main">
-                <div className="header">
+        <div className="container mx-auto my-28 md:px-60">
+            <div >
+                <div >
                     
-                    <div className="hero-container">
+                    <div >
                         <div className="row-1 full-screen grid md:grid-cols-2 sm:grid-cols-1 ">
                             <div className="">
 
-                                <div className="text-center mt-16 ">
+                                <div className=" mt-16 ">
                                     <div className=''>
                                         <h1 className=" font-bold text-5xl my-2">Tanvir Hasan Sohan</h1>
                                         <h1 className='font-bold text-4xl my-2'>Have skills of </h1>
@@ -38,9 +38,7 @@ const HeroSection = () => {
                                                 }}
                                             ></Typewriter>
                                         </h1>
-                                        <div className='mt-5 btn btn-outline'>
-                                            <a href="https://drive.google.com/file/d/1MU3ban80YH6gDv9ZwtvcF3vQU-bZAW_0/view?usp=share_link">Resume</a>
-                                        </div>
+                                       
                                     </div>
                                 </div>
 
