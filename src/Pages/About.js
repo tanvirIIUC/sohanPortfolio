@@ -5,7 +5,7 @@ import { AiFillLinkedin,AiFillGithub } from "react-icons/ai";
 
 const About = () => {
     return (
-        <div className='grid sm:grid-cols-1 md:grid-cols-2 my-52 container mx-auto md:px-60'>
+        <div id='about' className='grid sm:grid-cols-1 md:grid-cols-2 my-52 container mx-auto md:px-60'>
             <div className='flex justify-center text-white'>
                 <div>
                     <img className='w-80 rounded-3xl' src={aboutPic} alt="" />

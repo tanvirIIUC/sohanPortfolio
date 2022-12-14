@@ -6,7 +6,7 @@ import sohanPic from "../Assets/sohan.jpg"
 const HeroSection = () => {
     return (
 
-        <div className="container mx-auto my-28 md:px-60">
+        <div id='home' className="container mx-auto my-28 md:px-60">
             <div >
                 <div >
                     
@@ -16,9 +16,9 @@ const HeroSection = () => {
 
                                 <div className=" mt-16 ">
                                     <div className=''>
-                                        <h1 className=" font-bold text-5xl my-2">Tanvir Hasan Sohan</h1>
+                                        <h1 className=" font-bold text-5xl my-2 font-serif text-primary">Tanvir Hasan Sohan</h1>
                                         <h1 className='font-bold text-4xl my-2'>Have skills of </h1>
-                                        <h1 className="font-bold text-4xl my-2">
+                                        <h1 className="font-bold text-4xl my-2 text-cyan-600">
                                             <Typewriter
                                                 options={{
                                                     autoStart: true,

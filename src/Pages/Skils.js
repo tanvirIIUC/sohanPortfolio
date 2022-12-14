@@ -8,8 +8,8 @@ import { IoLogoFirebase } from 'react-icons/io';
 
 const Skils = () => {
     return (
-        <div className='container mx-auto  md:px-60 my-40 text-white'>
-            <h1 className='text-center my-20 font-bold text-4xl'>SKILS</h1>
+        <div id='skils' className='container mx-auto  md:px-60 my-40 text-white'>
+            <h1 className='text-center my-20 font-bold text-4xl text-primary font-serif'>SKILS</h1>
         <div className='grid md:grid-cols-5 sm:grid-cols-2 gap-10 justify-items-center'>
             <div ><AiFillHtml5 className='rounded-lg  btn-outline text-5xl'></AiFillHtml5></div>
             <div><DiCss3 className='rounded-lg  btn-outline text-5xl'></DiCss3></div>
