@@ -1,0 +1,61 @@
+[
+    {
+      "name": "Online Mobile Resale Market— React-project",
+      "image_name": "Home Page",
+      "image": "https://i.ibb.co/xL4s3fv/ctg-mobile-resale-market-web-app.png",
+      "image1_name": "Users Dashboard",
+      "image1": "https://i.ibb.co/h99wTpX/ctg-mobile-resale-market-web-app-dashboard-buyer.png",
+      "image2_name": "Admin Dashboard",
+      "image2": "https://i.ibb.co/vdMHNbx/ctg-mobile-resale-market-web-app-dashboard-admin.png",
+      "image3_name": "Seller Dashboard",
+      "image3": "https://i.ibb.co/3hPG4HM/ctg-mobile-resale-market-web-app-dashboard-seller.png",
+      "detail1": "This website is Business website.",
+      "detail2": "Admin has all power. He can delete any seller and buyer.he also can verify any seller.",
+      "detail3": "Buyer can buy any product and online payment.",
+      "detail4": "Seller can add products. He also can handle his product.",
+      
+      "live_link": "https://ctg-mobile-resale-market.web.app/",
+      "git_client_side": "https://github.com/tanvirIIUC/ctg-mobile-resale-market-client",
+      "git_server_side": "https://github.com/tanvirIIUC/ctg-mobile-resale-market-server",
+      "id": "1",
+      "tech": "React.js, Firebase,Mongodb,Node Express, daisy ui,Tailwind"
+    },
+    {
+      "name": "Online food service— React-project",
+      "image_name": "Home Page",
+      "image": "https://i.ibb.co/K9r6qct/ctg-food-web-app.png",
+      "image1_name": "All Review",
+      "image1": "https://i.ibb.co/zPp4vx2/ctg-food-web-app-review.png",
+      "image2_name": "My Review",
+      "image2": "https://i.ibb.co/z6JrCMf/ctg-food-web-app-myreview.png",
+      "image3_name": "Add Food",
+      "image3": "https://i.ibb.co/WP51V88/ctg-food-web-app-add-Food.png",
+      "detail1": "This is a Service Website.It has some food items .",
+      "detail2": "It contains Header.It also contains some food items. Login and Register.",
+      "detail3": "When anyone logs in . Then he can review any food items.",
+      
+      "live_link": "https://ctg-food.web.app/",
+      "git_client_side": "https://github.com/tanvirIIUC/ctg-food-client",
+      "git_server_side": "https://github.com/tanvirIIUC/ctg-food-server",
+      "id": "2",
+      "tech": "React.js, Firebase,Mongodb,Node Express, daisy ui,Tailwind"
+    },
+    {
+      "name": "Online-Learning Pi Academy — React- project",
+      "image_name": "Home Page",
+      "image": "https://i.ibb.co/d4mjQhQ/pi-acadamy-web-app.png",
+      "image1_name": "All topics",
+      "image1": "https://i.ibb.co/qFKkqnC/pi-acadamy-web-app-top-alltopic.png",
+      "image2_name": "Register",
+      "image2": "https://i.ibb.co/mbMyL9F/pi-acadamy-web-app-top-register.png",
+      "detail1": "This is a Learning Website . It has six Topics .",
+      "detail2": "It contains a Header. Login and Register.",
+      "detail3": "When anyone login then it's shown .Then he can see all topics and download.",
+      
+      "live_link": "https://pi-acadamy.web.app/",
+      "git_client_side": "https://github.com/tanvirIIUC/pi-acadamy-client",
+      "git_server_side": "https://github.com/tanvirIIUC/pi-acadamy-server",
+      "id": "3",
+      "tech": "React.js, Firebase,Node Express, React-Bootstrap,React-Router-dom"
+    }
+  ]

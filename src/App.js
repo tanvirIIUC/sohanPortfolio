@@ -7,18 +7,21 @@ import Skils from './Pages/Skils';
 import Projects from './Pages/Projects';
 import Contact from './Pages/Contact';
 import Footer from './Pages/Footer';
+import { RouterProvider } from 'react-router-dom';
+import { routes } from './Router/Routes';
+
 
 function App() {
+  
   return (
     <div className="">
-      <Navbar></Navbar>
-      <HeroSection></HeroSection>
-      <About></About>
-      <Skils></Skils>
-      <Projects></Projects>
-      <Contact></Contact>
-      <Footer></Footer>
-   
+  
+  <RouterProvider router={routes}></RouterProvider>
+      
+
+
+     
+      
     </div>
   );
 }
